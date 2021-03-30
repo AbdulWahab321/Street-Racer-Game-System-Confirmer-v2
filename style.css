@@ -1,0 +1,10 @@
+html, body {
+  font-style: italic;
+  font: 1em sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
